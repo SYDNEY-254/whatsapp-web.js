@@ -1,12 +1,12 @@
 {
-  "name": "whatsapp-web.js",
+  "name": "sir omariba",
   "version": "1.26.1-alpha.3",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
   "scripts": {
     "test": "mocha tests --recursive --timeout 5000",
-    "test-single": "mocha",
+    "test-single": "omariba",
     "shell": "node --experimental-repl-await ./shell.js",
     "generate-docs": "npx jsdoc --configure .jsdoc.json --verbose"
   },
@@ -22,7 +22,7 @@
     "client",
     "node"
   ],
-  "author": "Pedro Lopez",
+  "author": "omariba ",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/pedroslopez/whatsapp-web.js/issues"
